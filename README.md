@@ -55,6 +55,5 @@ When I'm not working with robots, I love playing the acoustic and electric guita
 
 ## 📫 Connect with Me
 
-* **Email:** [gennai.gianmaria@gmail.com](mailto:gennai.gianmaria@gmail.com)
+* **Email:** [gennai.gianmaria(AT)gmail.com](mailto:gennai.gianmaria(AT)gmail.com)
 * **Website:** [gennaig00.github.io/MyPage](https://gennaig00.github.io/MyPage)
-* **GitHub:** [@gennaig00](https://github.com/gennaig00)
